@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Leland's GitHub stats](https://github-readme-stats.vercel.app/api?username=byrdbass)](https://github.com/anuraghazra/github-readme-stats)
+[![Leland's GitHub stats](https://github-readme-stats.vercel.app/api?username=byrdbass&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Byrdbass/Byrdbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
