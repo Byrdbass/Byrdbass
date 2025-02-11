@@ -1,5 +1,5 @@
 # Welcome to Leland Byrd's Github 👋
-[![Tea Journal Card](https://github-readme-stats.vercel.app/api/pin/?username=byrdbass&repo=tea_journal)](https://github.com/anuraghazra/github-readme-stats](https://github.com/Byrdbass/tea-journal)
+[![Tea Journal Card](https://github-readme-stats.vercel.app/api/pin/?username=byrdbass&repo=tea_journal)](https://github.com/Byrdbass/tea-journal)]
 
 <!--
 [![Leland's GitHub stats](https://github-readme-stats.vercel.app/api?username=byrdbass)](https://github.com/anuraghazra/github-readme-stats)
