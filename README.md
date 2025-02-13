@@ -1,6 +1,8 @@
 # Welcome to Leland Byrd's Github 👋
 <!-- [![gvbsplit card](https://github-readme-stats.vercel.app/api/pin/?username=byrdbass&repo=gvbsplit&theme=aura#gh-dark-mode-only)](https://github.com/Byrdbass/gvbsplit) -->
 
+<img alt="top languages", align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byrdbass&show_icons=true&theme=aura#gh-dark-mode-only"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrdbass&show_icons=true&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leland's GitHub stats](https://github-readme-stats.vercel.app/api?username=byrdbass&show_icons=true&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
